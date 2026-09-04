@@ -7,10 +7,10 @@ android {
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.rpgenx.metaphotoconverter"
+        applicationId 'com.rpgenx.metaphotoconverter'
         minSdk 24
         targetSdk 35
         versionCode 1
-        versionName "1.0"
+        versionName '1.0'
     }
 }
